@@ -8,18 +8,18 @@ To see the original, including history, visit: https://github.com/HankRichter/Sp
 
 ## Screencap
 
-<h3 style="text-align: center;">Example:</h3>
+<h3 style="text-align: center;">The site in a normalized Chrome window:</h3>
 <br />
 
-![Spark screencap](./assets/image/project-one-screencap.png
+![Spark screencap](./assets/image/project-one-screencap.png)
 
 ## Credits
 
 Web Design by Hank Richter, Laura Strait, and Dennis Inglehart
 
-Images courtesy of [Pixabay](https://pixabay.com/)
+Images are from [Pixabay](https://pixabay.com/)
 
-Quotes by [type.fit](https://type.fit/api/quotes)
+Quotes are from [type.fit](https://type.fit/api/quotes)
 
 Main page photo by Bhusan Sadani: [Sparktitle](https://unsplash.com/photos/M-xaOaCzy_M)
 
