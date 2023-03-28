@@ -11,7 +11,7 @@ To see the original, including history, visit: https://github.com/HankRichter/Sp
 <h3 style="text-align: center;">Example:</h3>
 <br />
 
-![Spark screencap](./assets/image/Screenshot%202023-03-27%20113155.png)
+![Spark screencap](./assets/image/project-one-screencap.png
 
 ## Credits
 
