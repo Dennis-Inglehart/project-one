@@ -2,6 +2,10 @@
 
 Spark is a simple, straightforward website that provides "a quick self care break" by showing a serene image coupled with a random quote.
 
+This is a backup repository, in case the original becomes unusable for some reason.
+
+To see the original, including history, visit: https://github.com/HankRichter/Spark
+
 ## Screencap
 
 <h3 style="text-align: center;">Example:</h3>
